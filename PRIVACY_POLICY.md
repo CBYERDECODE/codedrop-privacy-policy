@@ -74,6 +74,13 @@ The options page provides two controls:
 
 Uninstalling the extension removes all of it as well.
 
+## Contact
+
+Questions about this policy or about the extension:
+
+- Email: `codedrop.support@gmail.com`
+- Canonical URL for this policy: `https://cbyerdecode.github.io/codedrop-privacy-policy/`
+
 ## Children, analytics, third parties
 
 No analytics, no telemetry, no third-party SDKs, no remote code. Nothing is shared
