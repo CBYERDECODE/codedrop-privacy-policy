@@ -1,4 +1,4 @@
-# CodeDrop — Privacy Policy
+\# CodeDrop — Privacy Policy
 
 _Last updated: this document describes the MVP build. If the code and this page
 ever disagree, the code is authoritative — see the verification table at the end._
@@ -73,6 +73,13 @@ The options page provides two controls:
   both areas and clears the in-memory fallback.
 
 Uninstalling the extension removes all of it as well.
+
+## Contact
+
+Questions about this policy or about the extension:
+
+- Email: `codedrop.support@gmail.com`
+- Canonical URL for this policy: `https://cbyerdecode.github.io/codedrop-privacy-policy/`
 
 ## Children, analytics, third parties
 
